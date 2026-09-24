@@ -147,6 +147,25 @@ Heaviest CTA density and social-proof of the three formats. Built around a multi
 
 **Condensed shape:** Hook (72hr promise) → lottery reframe → CTA → "why past attempts failed" → authority stack (vague + Bible verse) → numerology → breath induction → **the prayer given** (3-line mantra) → visualization → CTA → **3 testimonials** → neuroscience-flavored explanation → CTA → **the "mistake" warning** → practical advice → **the one real Jung/synchronicity citation** → "bridge of synchronicity" metaphor → signs/journaling instruction → CTA → final breath induction → **prayer repeated 3x, escalating** → full win visualization → CTA (major, "collective ritual") → 72-hour return instruction → identity reframe close → final CTA cluster → next-video redirect
 
+## 5d. Publishing package format (STANDING REQUIREMENT for every future script)
+
+Per user directive: every script delivered from now on must come as a full package, not just narration text:
+
+1. **Video title** (per the title formula already documented)
+2. **Video description** — matches observed format: just the title text repeated as the description body, no separate summary
+3. **Hashtags** — reuse this fixed pool observed on the reference channel, add topic-specific ones as needed, always close with the branded channel hashtag (e.g. `#ErichFromm` equivalent):
+   `#Psychologie #Tiefenpsychologie #Unterbewusstsein #Selbstfindung #Persönlichkeitsentwicklung #InnereHeilung #Selbstwert #EmotionaleHeilung #Beziehungspsychologie #LiebeUndBeziehungen #InnereStärke #Lebensweisheit`
+4. **Thumbnail concept**, describing:
+   - Dark/black background, star-field texture
+   - Desaturated portrait, pensive or "shush"/secretive pose
+   - Bold ALL-CAPS white/yellow text with a **red highlight box behind the single most emotionally charged word/phrase**
+   - Small inset icon in a bottom corner, circled or arrow-pointed
+   - Duration stamped bottom-right
+5. **Playlist assignment** (reference channel uses one main playlist, e.g. "Die Philosophie von Carl Jung" → ours would be "Die Philosophie von Erich Fromm" or similar)
+6. **The script itself**
+
+**Other distribution note**: the reference channel cross-publishes as a podcast feed (58 episodes) — worth planning equivalent distribution once the channel has enough videos.
+
 ## 6. Key content decision (user directive)
 
 **The money-as-energy/manifestation module will be copied directly** (same "money flows to you" framing as the reference channel), attributed to Fromm's name, **despite** it contradicting his real documented position (verified via research: Jung/Fromm-style figures never taught manifestation; the "money is energy, universe provides" framing traces to the New Thought/Law of Attraction tradition, not depth psychology). User's explicit rationale: prioritize proven revenue mechanics over fidelity to the source material. Flagged risk: Fromm is more fact-check-exposed than Jung on this specific point because his real anti-materialist position (*Haben oder Sein*) is widely read and well known — this is a live, accepted risk, not an oversight.
