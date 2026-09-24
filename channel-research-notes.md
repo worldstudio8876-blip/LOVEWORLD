@@ -84,6 +84,47 @@ The long-form scripts are NOT a short script looped. They're built from a long s
 **Confirmed present, exact order needs re-verification before final assembly:**
 Inner dialogue/critic → advisor · 5 soundtrack phrases · present-tense affirmation science · full affirmation list (~30) · timeline (past-healing + 5 future milestones) · energy section (6 "Löcher": unfinished tasks, toxic relationships, distraction, inactivity, bad food, sleep debt) · fear of rejection · self-forgiveness · forgiveness of others · uniqueness (8 billion people) · mortality/"5 years left" · mid-script consolidation recap · uralte Codes/cave-guardian archetype · values · inner child work · defense mechanisms · trigger reprogramming · thought-loop reprogramming · inner council/archetypes round table (Jung citation #5) · uncertainty/surfer metaphor · approval-seeking/marionette metaphor · gratitude · letting go (physical release) · courage to begin · final rapid-fire recap · cosmic/oneness closing
 
+## 5b. Template B — Standard single-topic video (~30-45 min, e.g. "salt in shoes")
+
+Linear single-argument structure, NOT modular. No hypnotic induction/trance language.
+
+1. Hook: "what if I told you [simple thing] can change your life" + dismiss expensive/complex alternatives
+2. Curiosity-gap tease: promise to reveal "the biggest mistake" later (unresolved until near the end)
+3. CTA cluster (once, early): like + subscribe + comment specific phrase
+4. Historical/cross-cultural authority section (multiple civilizations cited for legitimacy)
+5. Anticipated-skepticism bridge question ("but why X specifically?")
+6. Pseudo-anatomical/energetic mechanism explanation
+7. Problem framing (what's wrong with modern life/disconnection)
+8. Real + pseudo science blend (real studies cited, then extended into unsupported claims)
+9. **Named anecdote/case story** (skeptic → tries it → subtle change → breakthrough → commits → closing quote)
+10. First-person authority claim ("Als Meister Karl Jung ist es mir ein tiefes Anliegen...") — narrator speaks AS the figure, not citing him third-person
+11. Deeper pseudo-science layer (physics/energy claims)
+12. **Payoff**: the teased "mistake" revealed, closing the loop from beat 2
+13. Step-by-step practical instructions (numbered)
+14. Optional bonus depth layer (e.g. lunar cycles)
+15. Expectation-setting / honesty section ("not a magic wand," gradual timeline)
+16. Identity-shift reframe (active self-caretaker vs. passive victim)
+17. Opt-out permission ("not for everyone, that's fine")
+18. Recap
+19. Closing CTA (repeat like/subscribe/comment)
+20. Poetic sign-off blessing
+
+## 5c. Template C — Manifestation-ritual video (money/lottery focus, "2hr" type)
+
+Heaviest CTA density and social-proof of the three formats. Built around a multi-day return loop, not a single-sitting arc.
+
+**Distinctive elements not in Templates A or B:**
+- **72-hour promise bookend**: opens with "results within 72 hours," closes with "come back in exactly 72 hours" — forces a repeat-visit loop
+- **CTA repeated 8+ times throughout** (not front-loaded or bookended) — each a slightly different scripted phrase
+- **Three named composite testimonials** with day-by-day specificity (e.g. "Lisa": day 1 peace → day 2 shiver → day 3 crying → day 4 unexpected money)
+- **Fabricated numerology** — invented "codes" (e.g. "5207418") presented as manifestation numbers
+- **Real Bible citation used alongside pseudo-Jung framing** (Proverbs 18:21) — confirms the channel blends multiple authority sources, not just Jung
+- Only **one actual Jung citation** in the entire script (the synchronicity reference) — real Jung content is minimal even under his branding
+- **"Reveal the mistake" device reused** (same retention technique as Template B: warn early, deliver ~70% through — repeating without genuine emotion doesn't work)
+- **End-screen funnel** — explicitly directs to the next video
+
+**Condensed shape:** Hook (72hr promise) → lottery reframe → CTA → "why past attempts failed" → authority stack (vague + Bible verse) → numerology → breath induction → **the prayer given** (3-line mantra) → visualization → CTA → **3 testimonials** → neuroscience-flavored explanation → CTA → **the "mistake" warning** → practical advice → **the one real Jung/synchronicity citation** → "bridge of synchronicity" metaphor → signs/journaling instruction → CTA → final breath induction → **prayer repeated 3x, escalating** → full win visualization → CTA (major, "collective ritual") → 72-hour return instruction → identity reframe close → final CTA cluster → next-video redirect
+
 ## 6. Key content decision (user directive)
 
 **The money-as-energy/manifestation module will be copied directly** (same "money flows to you" framing as the reference channel), attributed to Fromm's name, **despite** it contradicting his real documented position (verified via research: Jung/Fromm-style figures never taught manifestation; the "money is energy, universe provides" framing traces to the New Thought/Law of Attraction tradition, not depth psychology). User's explicit rationale: prioritize proven revenue mechanics over fidelity to the source material. Flagged risk: Fromm is more fact-check-exposed than Jung on this specific point because his real anti-materialist position (*Haben oder Sein*) is widely read and well known — this is a live, accepted risk, not an oversight.
