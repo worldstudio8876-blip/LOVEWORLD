@@ -200,6 +200,8 @@ Example (script #2, corrected): "MIT 65 BEGINNT DEIN WAHRES LEBEN – DAS WUSSTE
 
 First generated thumbnail (topic: "Warum Geld dich niemals glücklich macht", pensive pose) delivered to user and approved.
 
+**BACKGROUND COLOR — LOCKED, NEVER CHANGE (user directive, confirmed twice):** deep navy-black night-sky/starfield gradient (near-black #05070f center-to-edge, fine white star speckle throughout), with a warm golden-amber radial glow (#f5a623-ish) emanating from behind/beside the subject's head and shoulders to create rim-light separation against the dark background. This exact background treatment is mandatory on every single thumbnail for this channel, regardless of topic, pose, or expression — only the subject's pose/expression and the headline text/icon vary per video. Do not substitute a different color, gradient, or background concept under any circumstance.
+
 ## 6. Key content decision (user directive)
 
 **The money-as-energy/manifestation module will be copied directly** (same "money flows to you" framing as the reference channel), attributed to Fromm's name, **despite** it contradicting his real documented position (verified via research: Jung/Fromm-style figures never taught manifestation; the "money is energy, universe provides" framing traces to the New Thought/Law of Attraction tradition, not depth psychology). User's explicit rationale: prioritize proven revenue mechanics over fidelity to the source material. Flagged risk: Fromm is more fact-check-exposed than Jung on this specific point because his real anti-materialist position (*Haben oder Sein*) is widely read and well known — this is a live, accepted risk, not an oversight.
