@@ -195,3 +195,7 @@ First generated thumbnail (topic: "Warum Geld dich niemals glücklich macht", pe
 - [ ] Pursue Fromm-Gesellschaft licensing conversation for footage (not yet started).
 - [ ] Cross-check the 4 sourced Fromm quotes above against a primary-text copy before using on-screen.
 - [ ] Confirmed topic list for scripts #2–6 (from earlier turn): longevity/aging (*produktives Altern*), *Haben oder Sein* core thesis, *Die Furcht vor der Freiheit*, alienated labor (*Warum wir arbeiten, ohne zu leben*) — relationship-themed topics deprioritized per performance data.
+
+## 8. Figure due-diligence (confirmed)
+
+User raised a direct question about political/reputational risk (e.g. "does this figure have hidden extremist associations, like a Hitler-adjacent figure would"). Researched and confirmed: Fromm was a German Jew who fled Nazi Germany in 1933/34; *Escape from Freedom* (1941) is a foundational anti-fascist psychological analysis of why people submitted to Hitler; no scandal or extremist association in the historical record. Broader politics were democratic-socialist/humanist (mainstream-left, not extremist) — flagged as a minor taste consideration only, not a risk, since scripts don't touch his party politics. Public reception is strongly positive and enduring (*The Art of Loving* still widely read); academic reception more mixed (Frankfurt School peers Adorno/Marcuse criticized him as theoretically shallow). **User confirmed: proceeding with Fromm.**
