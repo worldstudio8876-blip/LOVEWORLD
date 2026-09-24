@@ -166,6 +166,10 @@ Per user directive: every script delivered from now on must come as a full packa
 
 **Other distribution note**: the reference channel cross-publishes as a podcast feed (58 episodes) — worth planning equivalent distribution once the channel has enough videos.
 
+## 5d-1. Address form (STANDING REQUIREMENT)
+
+**Always Du-Form (informal), never Sie.** Confirmed across every reference transcript studied — the format depends on intimate, direct, one-on-one address, which the formal "Sie" would undercut. Script #2 already follows this correctly throughout.
+
 ## 5d-2. Title formatting rule (STANDING REQUIREMENT, corrected)
 
 Every video title, regardless of format (sleep, standard, or ritual), follows this exact structure:
