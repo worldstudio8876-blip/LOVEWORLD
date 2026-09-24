@@ -10,6 +10,28 @@ Working notes for a German-language faceless YouTube channel, modeled on the "Me
 - Evaluated niches: German history documentary, self-improvement/psychology, pension/retirement relocation, genealogy, Ostalgie (East German nostalgia), anatomy/health explainer (rejected — poor monetization even at scale, wrong audience fit).
 - Self-improvement/psychology (the "Meister Carl Jung" niche) confirmed as least-competitive proven-revenue German niche in prior research (only 1 channel above $1k/mo in that specific cluster).
 
+## 1b. Channel identity (LOCKED)
+
+**Name:** Erich Fromm – Die Kunst zu Leben
+
+**About/description** (matches the exact structural formula of the Meister Carl Jung channel's About section, topics swapped for authentic Fromm themes):
+
+> Willkommen bei Erich Fromm – Die Kunst zu Leben.
+>
+> Auf diesem Kanal entdecken wir die tiefsten Gedanken von Erich Fromm über die Kunst der Liebe, das Streben nach Freiheit, die Frage zwischen Haben und Sein und den Weg zu einem erfüllten Leben.
+> Unsere Videos helfen dir dabei, dich selbst und andere besser zu verstehen, die Fallen der modernen Konsumgesellschaft zu erkennen und ein Leben voller echter Fülle statt bloßen Besitzes zu führen.
+> Hier findest du Inhalte über:
+> Erich Fromm Psychologie
+> Liebe und Beziehungen
+> Haben und Sein
+> Freiheit und Selbstfindung
+> Die moderne Konsumgesellschaft und ihre Folgen
+> Emotionale Heilung und persönliche Entwicklung
+> Abonniere den Kanal und beginne deine Reise zu einem Leben in echter innerer Fülle.
+> Erich Fromm – Liebe, Freiheit und die Kunst zu leben.
+
+Note: "Synchronizität und Archetypen" (Jung-specific vocabulary) was replaced with "Die moderne Konsumgesellschaft und ihre Folgen" — a genuine, central Fromm theme — to keep the same 6-line rhythm without importing terms that don't belong to him.
+
 ## 2. Figure selection: Erich Fromm (1900–1980)
 
 Chosen over Freud (real footage exists but silent/no audio — unusable for a talking format) and over reusing Jung directly (would conceptually compete with the reference channel).
