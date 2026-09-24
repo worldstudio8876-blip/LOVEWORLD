@@ -166,6 +166,23 @@ Per user directive: every script delivered from now on must come as a full packa
 
 **Other distribution note**: the reference channel cross-publishes as a podcast feed (58 episodes) — worth planning equivalent distribution once the channel has enough videos.
 
+## 5e. Thumbnail generation rule (STANDING REQUIREMENT)
+
+**Every thumbnail must show Fromm reacting to that specific video's topic** — not a single fixed pose reused every time. Vary the expression/gesture to match the emotional register of the topic, mirroring the range seen on the reference channel:
+- Pensive/thoughtful (hand near chin or temple) — for reflective/wisdom topics
+- "Shush" finger-to-lips (secretive) — for "don't tell anyone" / hidden-knowledge framing
+- Hands together as if praying/pleading — for prayer/manifestation-style topics
+- Alarmed/serious direct stare — for warning-style topics ("the mistake everyone makes")
+- Contemplative side-profile — general default
+
+**Reusable Fromm reference photos** (already uploaded to Buzzy CDN, reuse these URLs directly in `image_urls` — no need to re-upload):
+- `https://res-prod.buzzy.now/file-service/b874aced-742a-40ff-90b3-2af4d3e84b7c.png`
+- `https://res-prod.buzzy.now/file-service/8b3945e1-2ec4-4324-b0a4-bab7be985c2c.png`
+
+**Generation recipe**: `mcp__Buzzy__GenerateImage` with model `Nano Banana Pro`, resolution `2K`, aspect_ratio `16:9`, passing the two reference URLs above in `image_urls`. Prompt structure: starfield/black background + desaturated B&W Fromm portrait (likeness locked via reference images, pose/expression varied per topic per the rule above) + bold white/yellow ALL-CAPS headline text with a red highlight box on the single key word + small inset icon (bottom corner, red-circled/arrow-pointed) relevant to the topic.
+
+First generated thumbnail (topic: "Warum Geld dich niemals glücklich macht", pensive pose) delivered to user and approved.
+
 ## 6. Key content decision (user directive)
 
 **The money-as-energy/manifestation module will be copied directly** (same "money flows to you" framing as the reference channel), attributed to Fromm's name, **despite** it contradicting his real documented position (verified via research: Jung/Fromm-style figures never taught manifestation; the "money is energy, universe provides" framing traces to the New Thought/Law of Attraction tradition, not depth psychology). User's explicit rationale: prioritize proven revenue mechanics over fidelity to the source material. Flagged risk: Fromm is more fact-check-exposed than Jung on this specific point because his real anti-materialist position (*Haben oder Sein*) is widely read and well known — this is a live, accepted risk, not an oversight.
