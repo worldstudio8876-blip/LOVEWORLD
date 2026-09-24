@@ -1,10 +1,10 @@
 # Script #2 — Full Publishing Package
 
 ## Video Title
-Mit 65 beginnt dein produktivstes Leben – was Erich Fromm über wahres Altern lehrte
+MIT 65 BEGINNT DEIN WAHRES LEBEN – DAS WUSSTE ERICH FROMM SCHON VOR JAHRZEHNTEN | Erich Fromm
 
 ## Video Description
-Mit 65 beginnt dein produktivstes Leben – was Erich Fromm über wahres Altern lehrte
+MIT 65 BEGINNT DEIN WAHRES LEBEN – DAS WUSSTE ERICH FROMM SCHON VOR JAHRZEHNTEN | Erich Fromm
 
 ## Hashtags
 #ErichFromm #Psychologie #Tiefenpsychologie #Persönlichkeitsentwicklung #Selbstfindung #InnereStärke #Lebensweisheit #Altern #ProduktivesLeben #Biophilie #EmotionaleHeilung #Selbstwert #InnereHeilung

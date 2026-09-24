@@ -166,6 +166,19 @@ Per user directive: every script delivered from now on must come as a full packa
 
 **Other distribution note**: the reference channel cross-publishes as a podcast feed (58 episodes) — worth planning equivalent distribution once the channel has enough videos.
 
+## 5d-2. Title formatting rule (STANDING REQUIREMENT, corrected)
+
+Every video title, regardless of format (sleep, standard, or ritual), follows this exact structure:
+
+**`[FULL ALL-CAPS HOOK] – [FULL ALL-CAPS PROMISE/RESULT CLAUSE] | Name (normal case)`**
+
+- The entire hook + promise clause before the pipe is in ALL CAPS — not just selective emphasis words.
+- The name after the pipe stays in normal title case (e.g. "| Erich Fromm", not "| ERICH FROMM") — confirmed against the reference channel's own top-performing video ("...AUF | Carl Jung").
+- The video description field repeats the title verbatim (already-confirmed format).
+- Applies uniformly across all three templates — this supersedes the earlier note suggesting standard-format videos use title case.
+
+Example (script #2, corrected): "MIT 65 BEGINNT DEIN WAHRES LEBEN – DAS WUSSTE ERICH FROMM SCHON VOR JAHRZEHNTEN | Erich Fromm"
+
 ## 5e. Thumbnail generation rule (STANDING REQUIREMENT)
 
 **Every thumbnail must show Fromm reacting to that specific video's topic** — not a single fixed pose reused every time. Vary the expression/gesture to match the emotional register of the topic, mirroring the range seen on the reference channel:
