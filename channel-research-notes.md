@@ -196,7 +196,9 @@ Example (script #2, corrected): "MIT 65 BEGINNT DEIN WAHRES LEBEN – DAS WUSSTE
 - `https://res-prod.buzzy.now/file-service/b874aced-742a-40ff-90b3-2af4d3e84b7c.png`
 - `https://res-prod.buzzy.now/file-service/8b3945e1-2ec4-4324-b0a4-bab7be985c2c.png`
 
-**Generation recipe**: `mcp__Buzzy__GenerateImage` with model `Nano Banana Pro`, resolution `2K`, aspect_ratio `16:9`, passing the two reference URLs above in `image_urls`. Prompt structure: starfield/black background + desaturated B&W Fromm portrait (likeness locked via reference images, pose/expression varied per topic per the rule above) + bold white/yellow ALL-CAPS headline text with a red highlight box on the single key word + small inset icon (bottom corner, red-circled/arrow-pointed) relevant to the topic.
+**Generation recipe**: `mcp__Buzzy__GenerateImage` with model `Nano Banana Pro`, resolution `2K`, aspect_ratio `16:9`, passing the two reference URLs above in `image_urls`. Prompt structure: starfield/black background + desaturated B&W Fromm portrait (likeness locked via reference images, pose/expression varied per topic per the rule above) + one single dominant bold yellow ALL-CAPS keyword (see rule below — not the video title) + small inset icon (bottom corner, red-circled/arrow-pointed) relevant to the topic.
+
+**THUMBNAIL TEXT — LOCKED, NEVER SAME AS THE VIDEO TITLE (user directive):** the thumbnail must never repeat the video title text, not even a shortened excerpt of it. Use one single dominant keyword instead, capturing the core promise/emotion of that video's topic (e.g. "NEUSTART" for a sleep-reprogramming video). Large, bold, ALL CAPS, one word (or at most a very short 2-word phrase) — not a sentence, not a title fragment. This is a standing rule for every future thumbnail on this channel.
 
 First generated thumbnail (topic: "Warum Geld dich niemals glücklich macht", pensive pose) delivered to user and approved.
 
