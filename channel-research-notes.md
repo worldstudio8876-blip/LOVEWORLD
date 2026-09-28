@@ -164,6 +164,8 @@ Per user directive: every script delivered from now on must come as a full packa
 5. **Playlist assignment** (reference channel uses one main playlist, e.g. "Die Philosophie von Carl Jung" → ours would be "Die Philosophie von Erich Fromm" or similar)
 6. **The script itself**
 
+7. **PDF delivery (STANDING REQUIREMENT, added per user directive)**: every script package must be delivered as a PDF file, not just the `.md` source — plain markdown files are not reliably openable on the user's device. Workflow: write/edit the `.md` source as usual in `scripts/`, then convert it with `python3 scripts/md_to_pdf.py <input.md> <output.pdf>` (reusable reportlab-based converter, already built and committed). Send the resulting `.pdf` to the user via SendUserFile — the `.md` stays in the repo as the source of truth, but the `.pdf` is the deliverable the user actually opens.
+
 **Other distribution note**: the reference channel cross-publishes as a podcast feed (58 episodes) — worth planning equivalent distribution once the channel has enough videos.
 
 ## 5d-1. Address form (STANDING REQUIREMENT)
