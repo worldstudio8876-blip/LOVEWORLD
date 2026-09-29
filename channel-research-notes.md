@@ -168,6 +168,8 @@ Per user directive: every script delivered from now on must come as a full packa
 
 **Other distribution note**: the reference channel cross-publishes as a podcast feed (58 episodes) — worth planning equivalent distribution once the channel has enough videos.
 
+**Thumbnail sourcing rule (clarified after script #5, multiple failed rounds)**: when the user shares a screenshot of the reference channel's ACTUAL published thumbnail for the specific video being cloned, the default is to replicate that reference thumbnail as closely as possible — same color treatment (do not desaturate to B&W unless the reference is B&W), same background style, same pose, same text layout/colors, same inset graphic — changing ONLY the face to our locked Fromm likeness. Do not substitute our general established house style (the black-and-white/starfield/small-icon look used on scripts #2–#4) unless the user asks for that specifically. The general house style is the fallback for topics where no exact reference thumbnail was supplied.
+
 ## 5d-1. Address form (STANDING REQUIREMENT)
 
 **Always Du-Form (informal), never Sie.** Confirmed across every reference transcript studied — the format depends on intimate, direct, one-on-one address, which the formal "Sie" would undercut. Script #2 already follows this correctly throughout.
