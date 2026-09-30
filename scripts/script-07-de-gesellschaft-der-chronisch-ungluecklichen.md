@@ -1,10 +1,10 @@
 # Script #7 — Full Publishing Package
 
 ## Video Title
-ERICH FROMM: „WIR LEBEN IN EINER GESELLSCHAFT CHRONISCH UNGLÜCKLICHER MENSCHEN"
+WIR LEBEN IN EINER GESELLSCHAFT CHRONISCH UNGLÜCKLICHER MENSCHEN – DAS ERKANNTE ERICH FROMM SCHON VOR JAHRZEHNTEN | Erich Fromm
 
 ## Video Description
-ERICH FROMM: „WIR LEBEN IN EINER GESELLSCHAFT CHRONISCH UNGLÜCKLICHER MENSCHEN"
+WIR LEBEN IN EINER GESELLSCHAFT CHRONISCH UNGLÜCKLICHER MENSCHEN – DAS ERKANNTE ERICH FROMM SCHON VOR JAHRZEHNTEN | Erich Fromm
 
 ## Hashtags
 #ErichFromm #Psychologie #Tiefenpsychologie #Philosophie #MentalGesundheit #Gesellschaftskritik #Selbstfindung #Persönlichkeitsentwicklung #Lebensweisheit #Interview #Soziologie #Psychoanalyse

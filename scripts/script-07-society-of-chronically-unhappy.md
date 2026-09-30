@@ -1,10 +1,10 @@
 # Script #7 — Full Publishing Package
 
 ## Video Title
-ERICH FROMM: "WE LIVE IN A SOCIETY OF CHRONICALLY UNHAPPY PEOPLE"
+WE LIVE IN A SOCIETY OF CHRONICALLY UNHAPPY PEOPLE – ERICH FROMM RECOGNIZED THIS DECADES AGO | Erich Fromm
 
 ## Video Description
-ERICH FROMM: "WE LIVE IN A SOCIETY OF CHRONICALLY UNHAPPY PEOPLE"
+WE LIVE IN A SOCIETY OF CHRONICALLY UNHAPPY PEOPLE – ERICH FROMM RECOGNIZED THIS DECADES AGO | Erich Fromm
 
 ## Hashtags
 #ErichFromm #Psychology #DepthPsychology #Philosophy #MentalHealth #SocialCritique #SelfDiscovery #PersonalDevelopment #Wisdom #Interview #Sociology #Psychoanalysis
