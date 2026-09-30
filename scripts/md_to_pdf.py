@@ -13,6 +13,9 @@ from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, HRFlowable
 def escape(text):
     return (text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
 
+def apply_bold(text):
+    return re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", text)
+
 def convert(md_path, pdf_path):
     raw = Path(md_path).read_text(encoding="utf-8")
     lines = raw.split("\n")
@@ -28,7 +31,7 @@ def convert(md_path, pdf_path):
 
     def flush_paragraph(style=body_style):
         if para_buffer:
-            text = escape(" ".join(para_buffer).strip())
+            text = apply_bold(escape(" ".join(para_buffer).strip()))
             if text:
                 story.append(Paragraph(text, style))
             para_buffer.clear()
