@@ -18,7 +18,9 @@ Read this first in every session. It holds the locked decisions for the channels
 2. Every script includes a **Carl Jung reaction**: a section where Jung's view of the same topic
    is set against Fromm's (where they agree, where they differ). It links the two channels and can
    point viewers to the Jung channel.
-3. German, always Du-Form, ~119–128 words per minute for length planning.
+3. **Language:** scripts are in English by default. Write in German only when the user says
+   that script is German. German scripts always use Du-Form. Plan length at ~119–128 words per
+   minute. Title, description, hashtags and thumbnail text follow the script's language.
 4. Deliver the full package: title, description (the title verbatim), hashtags, thumbnail concept,
    playlist ("Die Philosophie von Erich Fromm"), the script, plus PDF and TXT files.
 5. Do not invent quotes and attribute them to Fromm or Jung. Mark any quote that has not been
