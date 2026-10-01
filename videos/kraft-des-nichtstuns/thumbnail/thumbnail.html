@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<title>Thumbnail – Die Kraft des Nichtstuns</title>
+<style>
+  @font-face { font-family: "Montserrat"; font-weight: 800 900; src: url("Montserrat-Black.woff2") format("woff2"); }
+  /* Render at 1280x720. Swap the portrait via ?portrait=<path-or-url>.
+     ?only=diagram renders just the diagram card (transparent) for use in the video. */
+  :root {
+    --yellow: #ffe600;
+    --gold: #f5b301;
+    --gold-dark: #b97800;
+    --red: #e3262b;
+    --green: #22b14c;
+    --ink: #111;
+    --paper: #f6ecd6;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1280px; height: 720px; overflow: hidden; background: #050a1a; }
+  body.only-diagram { background: transparent; }
+
+  .thumb {
+    position: relative; width: 1280px; height: 720px; overflow: hidden;
+    background:
+      radial-gradient(ellipse 60% 70% at 70% 35%, rgba(60,110,200,.35), transparent 70%),
+      radial-gradient(ellipse 40% 50% at 20% 60%, rgba(40,70,160,.30), transparent 70%),
+      #050a1a;
+    font-family: "Montserrat", "DejaVu Sans", sans-serif;
+  }
+  .grid {
+    position: absolute; inset: 0;
+    background-image:
+      linear-gradient(rgba(140,170,255,.08) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(140,170,255,.08) 1px, transparent 1px);
+    background-size: 64px 64px;
+  }
+  .stars { position: absolute; inset: 0; }
+
+  .portrait {
+    position: absolute; left: 0; bottom: 0; width: 455px; height: 720px;
+    background-repeat: no-repeat; background-size: cover; background-position: left center;
+    -webkit-mask-image: linear-gradient(90deg, #000 78%, transparent 100%);
+            mask-image: linear-gradient(90deg, #000 78%, transparent 100%);
+  }
+
+  .headline {
+    position: absolute; right: 24px; top: 24px; width: 800px;
+    text-align: center; font-weight: 900; line-height: .98; letter-spacing: -1px;
+    font-size: 76px; text-transform: uppercase; white-space: nowrap;
+    paint-order: stroke fill; -webkit-text-stroke: 10px #000;
+    filter: drop-shadow(0 6px 0 rgba(0,0,0,.85)) drop-shadow(0 0 22px rgba(0,0,0,.6));
+  }
+  .headline .y { color: var(--yellow); }
+  .headline .w { color: #fff; }
+
+  /* ---------- Diagram card ---------- */
+  .card {
+    position: absolute; right: 24px; bottom: 22px; width: 770px; height: 420px;
+    background: var(--paper); border: 7px solid var(--ink); border-radius: 18px;
+    box-shadow: 0 14px 0 rgba(0,0,0,.55), 0 0 40px rgba(255,200,60,.25);
+    display: grid; grid-template-rows: 1fr 6px 1fr; padding: 8px 16px;
+    font-family: "Montserrat", "DejaVu Sans", sans-serif;
+  }
+  .only-diagram .card { position: static; margin: 0; }
+  .divider { background: repeating-linear-gradient(90deg, #333 0 14px, transparent 14px 24px); height: 4px; align-self: center; opacity: .5; }
+  .row { display: grid; grid-template-columns: 116px 1fr 64px 112px 62px; align-items: center; column-gap: 8px; }
+  .word { font-weight: 900; font-size: 50px; letter-spacing: -1.5px; line-height: 1; }
+  .row.bad .word { color: var(--red); }
+  .row.good .word { color: var(--gold-dark); }
+  .result { display: flex; flex-direction: column; align-items: center; gap: 2px; }
+  .result span { font-weight: 900; font-size: 28px; letter-spacing: 1px; }
+  .row.bad .result span { color: var(--red); }
+  .row.good .result span { color: var(--gold-dark); }
+  svg { display: block; }
+</style>
+</head>
+<body>
+<div class="thumb" id="thumb">
+  <div class="grid"></div>
+  <svg class="stars" id="stars" width="1280" height="720"></svg>
+  <div class="portrait" id="portrait"></div>
+
+  <div class="headline">
+    <div class="y">Die Kraft des</div>
+    <div><span class="y">Nichtstuns</span> <span class="w">und</span></div>
+    <div class="w">alles bekommen</div>
+  </div>
+
+  <div class="card" id="card">
+    <!-- Row 1: KÄMPFEN -> LEER -->
+    <div class="row bad">
+      <!-- running, stressed figure -->
+      <svg viewBox="0 0 100 100" width="116" height="116" aria-label="gehetzte Figur">
+        <g stroke="#e3262b" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <circle cx="60" cy="16" r="10" fill="#e3262b" stroke="none"/>
+          <path d="M56 30 L44 58"/>
+          <path d="M53 36 L70 46 L80 40"/>
+          <path d="M53 36 L36 40 L28 52"/>
+          <path d="M44 58 L60 72 L56 92"/>
+          <path d="M44 58 L30 74 L14 76"/>
+        </g>
+        <!-- sweat drops -->
+        <g fill="#3a8be0">
+          <path d="M80 10 q5 8 0 12 q-5 -4 0 -12z"/>
+          <path d="M88 24 q4 7 0 10 q-4 -3 0 -10z"/>
+        </g>
+        <!-- speed lines -->
+        <g stroke="#e3262b" stroke-width="4" stroke-linecap="round" opacity=".6">
+          <path d="M4 30 H22"/><path d="M0 44 H18"/><path d="M6 58 H24"/>
+        </g>
+      </svg>
+      <div class="word">KÄMPFEN</div>
+      <svg viewBox="0 0 70 40" width="64" height="38" aria-label="Pfeil">
+        <path d="M4 20 H50" stroke="#e3262b" stroke-width="9" stroke-linecap="round"/>
+        <path d="M44 6 L66 20 L44 34 Z" fill="#e3262b"/>
+      </svg>
+      <div class="result">
+        <!-- empty battery -->
+        <svg viewBox="0 0 90 50" width="108" height="60" aria-label="leere Batterie">
+          <rect x="4" y="5" width="72" height="40" rx="7" fill="none" stroke="#111" stroke-width="7"/>
+          <rect x="78" y="16" width="8" height="18" rx="2" fill="#111"/>
+          <rect x="11" y="12" width="12" height="26" rx="3" fill="#e3262b"/>
+        </svg>
+        <span>LEER</span>
+      </div>
+      <!-- red X -->
+      <svg viewBox="0 0 60 60" width="62" height="62" aria-label="falsch">
+        <circle cx="30" cy="30" r="27" fill="#e3262b"/>
+        <path d="M19 19 L41 41 M41 19 L19 41" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+      </svg>
+    </div>
+
+    <div class="divider"></div>
+
+    <!-- Row 2: EMPFANGEN -> FÜLLE -->
+    <div class="row good">
+      <!-- calm, seated figure with glowing heart -->
+      <svg viewBox="0 0 100 100" width="116" height="116" aria-label="ruhige sitzende Figur">
+        <defs>
+          <radialGradient id="glow">
+            <stop offset="0" stop-color="#fff6b0"/>
+            <stop offset=".45" stop-color="#ffd23a" stop-opacity=".9"/>
+            <stop offset="1" stop-color="#ffd23a" stop-opacity="0"/>
+          </radialGradient>
+        </defs>
+        <circle cx="50" cy="52" r="46" fill="url(#glow)"/>
+        <g fill="#b97800">
+          <circle cx="50" cy="20" r="11"/>
+          <path d="M34 34 Q50 28 66 34 L70 66 L30 66 Z"/>
+          <ellipse cx="50" cy="74" rx="38" ry="11"/>
+        </g>
+        <!-- arms resting on knees -->
+        <g stroke="#b97800" stroke-width="8" stroke-linecap="round" fill="none">
+          <path d="M36 38 L22 62"/><path d="M64 38 L78 62"/>
+        </g>
+        <!-- heart -->
+        <path d="M50 58 C38 48 40 38 46 38 C49 38 50 41 50 42 C50 41 51 38 54 38 C60 38 62 48 50 58Z" fill="#e3262b"/>
+      </svg>
+      <div class="word">EMPFANGEN</div>
+      <svg viewBox="0 0 70 40" width="64" height="38" aria-label="Pfeil">
+        <path d="M4 20 H50" stroke="#e0a000" stroke-width="9" stroke-linecap="round"/>
+        <path d="M44 6 L66 20 L44 34 Z" fill="#e0a000"/>
+      </svg>
+      <div class="result">
+        <!-- radiant sun -->
+        <svg viewBox="0 0 90 70" width="110" height="86" aria-label="Fülle">
+          <g stroke="#f5b301" stroke-width="6" stroke-linecap="round">
+            <path d="M45 2 V12"/><path d="M45 58 V68"/><path d="M12 35 H22"/><path d="M68 35 H78"/>
+            <path d="M21 11 L28 18"/><path d="M69 11 L62 18"/><path d="M21 59 L28 52"/><path d="M69 59 L62 52"/>
+          </g>
+          <circle cx="45" cy="35" r="20" fill="#ffd23a" stroke="#b97800" stroke-width="4"/>
+          <text x="45" y="44" text-anchor="middle" font-family="Montserrat, DejaVu Sans" font-weight="900" font-size="24" fill="#b97800">€</text>
+        </svg>
+        <span>FÜLLE</span>
+      </div>
+      <!-- green check -->
+      <svg viewBox="0 0 60 60" width="62" height="62" aria-label="richtig">
+        <circle cx="30" cy="30" r="27" fill="#22b14c"/>
+        <path d="M16 31 L26 41 L45 20" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      </svg>
+    </div>
+  </div>
+</div>
+
+<script>
+  const params = new URLSearchParams(location.search);
+  const portrait = params.get('portrait');
+  if (portrait) document.getElementById('portrait').style.backgroundImage = `url("${portrait}")`;
+
+  if (params.get('only') === 'diagram') {
+    document.body.classList.add('only-diagram');
+    const card = document.getElementById('card');
+    document.body.innerHTML = '';
+    document.body.appendChild(card);
+  } else {
+    // deterministic star field
+    let s = 7; const rnd = () => (s = (s * 16807) % 2147483647) / 2147483647;
+    const svg = document.getElementById('stars');
+    for (let i = 0; i < 260; i++) {
+      const c = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+      c.setAttribute('cx', rnd() * 1280); c.setAttribute('cy', rnd() * 720);
+      c.setAttribute('r', rnd() < .92 ? rnd() * 1.2 + .3 : rnd() * 1.6 + 1.2);
+      c.setAttribute('fill', '#fff'); c.setAttribute('opacity', (rnd() * .7 + .3).toFixed(2));
+      svg.appendChild(c);
+    }
+  }
+</script>
+</body>
+</html>
