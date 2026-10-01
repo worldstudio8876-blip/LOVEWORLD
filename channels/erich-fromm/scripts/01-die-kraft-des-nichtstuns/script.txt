@@ -24,7 +24,7 @@ THUMBNAIL-KONZEPT
 - Pose/Position wie Referenz: Fromm links, Kinn auf die Hand gestützt, nachdenklicher Blick Richtung Text.
 - Fromm vollständig schwarz-weiß, Gesicht nach den gesperrten Referenzfotos.
 - Hintergrund: navy-schwarzer Sternenhimmel, feine weiße Sterne, leichter blau-türkiser Nebel oben links. Kein Raster.
-- Text (3 Zeilen, ALL CAPS): „DIE KRAFT DES / NICHTSTUNS UND / ALLES BEKOMMEN“ – gelb/weiß geteilt.
+- Text (3 Zeilen, ALL CAPS): „TU NICHTS – / UND ALLES / KOMMT ZU DIR“ – weiß / gelb / weiß auf rotem Balken. (Alternative B: „WER AUFHÖRT / ZU JAGEN, / BEKOMMT ALLES“.)
 - Diagramm unten rechts (Pergament-Karte, groß und lesbar): links ein erschöpfter älterer Mann, der einen Felsbrocken bergauf schiebt (rotes X, „KAMPF“); rechts derselbe Mann ruhig im Sessel, Herz/Münze/Haus/Sonne fließen auf Pfeilen zu ihm (grüner Haken, „STILLE“); roter Kreis + roter Pfeil auf den ruhigen Mann.
 - Keine Laufzeitanzeige.
 
