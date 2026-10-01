@@ -15,9 +15,11 @@ Read this first in every session. It holds the locked decisions for the channels
 
 1. Pick one of the three templates: A (sleep/hypnotic, 2.5–4 h), B (standard single topic,
    30–45 min) or C (manifestation ritual, scarcity/urgency). Follow its beat structure.
-2. Every script includes a **Carl Jung reaction**: a section where Jung's view of the same topic
-   is set against Fromm's (where they agree, where they differ). It links the two channels and can
-   point viewers to the Jung channel.
+2. **Scripts from the Carl Jung channel:** when the user gives a Jung script, do NOT write a new
+   script. Keep the text word for word and only change the name Carl/Karl Jung to Erich Fromm.
+   Allowed cleanup only: remove transcript markers like [musik] and fix obvious transcription
+   typos. The rest of the package (title, description, hashtags, thumbnail, playlist) is still
+   built around it.
 3. **Language:** scripts are in English by default. Write in German only when the user says
    that script is German. German scripts always use Du-Form. Plan length at ~119–128 words per
    minute. Title, description, hashtags and thumbnail text follow the script's language.
