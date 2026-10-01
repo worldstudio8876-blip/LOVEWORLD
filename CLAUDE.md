@@ -25,7 +25,14 @@ Read this first in every session. It holds the locked decisions for the channels
    minute. Title, description, hashtags and thumbnail text follow the script's language.
 4. Deliver the full package: title, description (the title verbatim), hashtags, thumbnail concept,
    playlist ("Die Philosophie von Erich Fromm"), the script, plus PDF and TXT files.
-5. Do not invent quotes and attribute them to Fromm or Jung. Mark any quote that has not been
+5. **Donation lines (Superchat, Super Thanks, donations, etc.):** whenever a script contains a
+   line asking viewers to support the channel with money, first show that exact line to the user
+   (quote it in the reply, highlighted), then replace it with:
+   - German: „Wenn du die Arbeit von Meister Erich Fromm unterstützen möchtest, kannst du liken,
+     kommentieren und den Kanal abonnieren.“
+   - English: "If you would like to support the work of Master Erich Fromm, you can like,
+     comment and subscribe to the channel."
+6. Do not invent quotes and attribute them to Fromm or Jung. Mark any quote that has not been
    checked against the primary text.
 
 ## Thumbnails
