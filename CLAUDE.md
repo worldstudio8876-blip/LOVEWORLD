@@ -25,9 +25,10 @@ Read this first in every session. It holds the locked decisions for the channels
    minute. Title, description, hashtags and thumbnail text follow the script's language.
 4. Deliver the full package: title, description (the title verbatim), hashtags, thumbnail concept,
    playlist ("Die Philosophie von Erich Fromm"), the script, plus PDF and TXT files.
-5. **Donation lines (Superchat, Super Thanks, donations, etc.):** whenever a script contains a
-   line asking viewers to support the channel with money, first show that exact line to the user
-   (quote it in the reply, highlighted), then replace it with:
+5. **Donation lines (Superchat, Super Thanks, donations, etc.):** the moment a script contains the
+   word "donation" (German: Spende, spenden) or any line asking viewers for money (Superchat,
+   Super Thanks, PayPal, Patreon, etc.), flag it to the user IMMEDIATELY: at the very top of the
+   reply, before anything else, quote the exact line highlighted. Then replace it with:
    - German: „Wenn du die Arbeit von Meister Erich Fromm unterstützen möchtest, kannst du liken,
      kommentieren und den Kanal abonnieren.“
    - English: "If you would like to support the work of Master Erich Fromm, you can like,
