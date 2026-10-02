@@ -29,8 +29,11 @@ Read this first in every session. It holds the locked decisions for the channels
    - TikTok: short hook caption (1–3 lines, max ~300 characters), a comment CTA, 4–6 hashtags
      (mix of broad + topic, always incl. #ErichFromm, plus #fyp/#foryou-style tags in the script's
      language, e.g. #fürdich for German).
-   - Facebook: 4–8 line post (hook, 2–3 lines of the core idea, CTA to watch the full video on
-     YouTube and comment the phrase), then 5–8 hashtags ending with #ErichFromm.
+   - Facebook: 4–8 line post (hook, 2–3 lines of the core idea, CTA to comment the phrase and
+     follow the page), then 5–8 hashtags ending with #ErichFromm.
+   - Every post is its own standalone post, written fresh for that platform (TikTok and Facebook
+     texts are different from each other and from the YouTube description). NEVER mention or
+     link to YouTube in TikTok or Facebook posts.
    - Same language as the script.
 5. **Donation lines (Superchat, Super Thanks, donations, etc.):** the moment a script contains the
    word "donation" (German: Spende, spenden) or any line asking viewers for money (Superchat,
