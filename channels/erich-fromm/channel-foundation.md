@@ -198,3 +198,10 @@ Rules:
 
 When the user asks, deliver any document (this foundation, a script package, a list of all videos) as PDF.
 
+## 13. Video Log
+
+- **01 – Die Kraft des Nichtstuns** (`scripts/01-die-kraft-des-nichtstuns/`) — German. Source: Carl Jung script, name changed to Fromm. Title: HÖR AUF ZU KÄMPFEN – WARUM DIE STILLE DIR MEHR SCHENKT ALS JEDE ANSTRENGUNG | Erich Fromm. Thumbnail: „TU NICHTS – UND ALLES KOMMT ZU DIR“ (alt.: „WER AUFHÖRT ZU JAGEN, BEKOMMT ALLES“). Comment phrase: „Empfange, ohne zu erzwingen.“ Social post: Fromm, *Die Kunst des Liebens* (1956). Superchat line replaced.
+- **02 – Du hast um ein Zeichen gebeten** (`scripts/02-dieses-video-hat-dich-gefunden/`) — German (translated from the English Jung script, Jung-only details adapted to Fromm's life). Title: DU HAST UM EIN ZEICHEN GEBETEN – SO FINDET DICH DAS WAHRE GLÜCK JETZT | Erich Fromm. Thumbnail: „2. OKTOBER DIESES VIDEO HAT DICH GEFUNDEN – DU WIRST SO VIEL GLÜCK HABEN, DASS ES ILLEGAL WIRKT“ (date = placeholder, confirm upload date). Comment phrase: „Ich bin bereit für mein großes Glück.“ Social post: Fromm, *Haben oder Sein* (1976).
+
+Open items: confirm German wording of both social-post quotes against the German editions; confirm upload date for the Video 02 thumbnail.
+
