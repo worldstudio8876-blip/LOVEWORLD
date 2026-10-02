@@ -117,3 +117,84 @@ Example: "MIT 65 BEGINNT DEIN WAHRES LEBEN – DAS WUSSTE ERICH FROMM SCHON VOR 
 - Several sourced Fromm quotes need cross-checking against primary texts before any on-screen use
 - **Standing accepted risk:** the money-as-energy/manifestation framing contradicts Fromm's real documented anti-materialist position (*Haben oder Sein*) — kept anyway per explicit directive prioritizing proven revenue mechanics over fidelity to the source material; flagged as a live, accepted risk since Fromm is more fact-check-exposed on this point than Jung would be
 - Remaining confirmed topic list for future original scripts: longevity (*produktives Altern*), the *Haben oder Sein* core thesis, *Die Furcht vor der Freiheit*, alienated labor — relationship-themed topics deprioritized per performance data
+
+## 7. Production Rules (Standing — apply to every script)
+
+1. **Template:** every script follows Template A, B or C (Section 4).
+2. **Scripts from the Carl Jung channel:** keep the text word for word, only change the name Carl/Karl Jung → Erich Fromm. Allowed cleanup: remove transcript markers ([musik] etc.), fix obvious transcription typos, add paragraph breaks. If the user asks to adapt it to Fromm's life, replace Jung-only facts (Zurich labs, collective unconscious, synchronicity theory, shadow, individuation) with Fromm's real biography and terms (40+ years as psychoanalyst; Frankfurt, New York, Mexico City; "das Unbewusste"; "vom Haben zum Sein").
+3. **Language:** English by default. German only when the user says so. German always Du-Form. Title, description, hashtags, thumbnail text and all social posts follow the script's language.
+4. **Donation lines:** the moment a script contains "donation" / "Spende" / "spenden" or any request for money (Superchat, Super Thanks, PayPal, Patreon …), flag it at the very top of the reply, quoting the exact line highlighted. Then replace it with:
+   - DE: „Wenn du die Arbeit von Meister Erich Fromm unterstützen möchtest, kannst du liken, kommentieren und den Kanal abonnieren.“
+   - EN: "If you would like to support the work of Master Erich Fromm, you can like, comment and subscribe to the channel."
+5. **Quotes:** never invent a quote and put Fromm's (or Jung's) name under it. Mark any quote not yet checked against the primary text.
+6. **Proofreading:** on request, proofread and deliver the TXT; list every change made.
+
+## 8. Full Package (deliver every time, in this order)
+
+1. Title — `[ALL-CAPS HOOK] – [ALL-CAPS PROMISE] | Erich Fromm`
+2. Description — title verbatim
+3. Hashtags — pool (Section 5) + topic tags, ending with #ErichFromm
+4. Playlist — "Die Philosophie von Erich Fromm"
+5. TikTok video post — caption (1–3 lines, max ~300 characters, hook + comment CTA) + 4–6 hashtags incl. #ErichFromm and #fürdich (#fyp in English)
+6. Facebook video post — 4–8 lines (hook, 2–3 lines core idea, comment CTA, "Folge der Seite …") + 5–8 hashtags ending with #ErichFromm
+7. Thumbnail concept + generated thumbnail (Section 9)
+8. Comment phrase
+9. The script
+10. SOCIAL-MEDIA-POST image post (Section 10) + generated image
+11. Files: TXT and PDF (PDF includes the thumbnail)
+
+Social posts are standalone, written fresh for each platform (TikTok, Facebook and the YouTube description are all different). **Never mention or link to YouTube in TikTok or Facebook posts.**
+
+## 9. Thumbnail Production
+
+- Generated with **Buzzy** (Nano Banana Pro, 16:9, 2K).
+- Fromm's face always from the locked likeness photos in `reference/` (`fromm-portrait-01` … `07`), uploaded as image references on every generation.
+- When the user supplies a Jung-channel thumbnail as reference: copy its pose, position and words (translated into the script's language), replace the man with Fromm, and add a large, clearly visible diagram card (bottom right) that relates to the topic and to an older audience.
+- Text never repeats the video title. Date in the thumbnail = upload date (confirm with the user).
+
+## 10. SOCIAL-MEDIA-POST (Image Post for Facebook & TikTok) — after every script
+
+Style references: `reference/social/style-ref-quote-light-desk.jpg`, `reference/social/style-ref-quote-black.jpg` (style only — never copy them).
+
+Structure, always at the end of every script:
+
+```
+SOCIAL-MEDIA-POST
+
+Quote/Hook:
+  Zitat (verifiziert): „…“ – Erich Fromm, <Werk, Jahr>
+  Reflexion (inspiriert von Erich Fromm, KEIN Zitat): „…“
+
+Text auf dem Bild:
+  [exact German text on the image + attribution only if verified]
+
+Bild:
+  [complete visual description; image generated with Buzzy]
+
+Caption:
+  [German Facebook/TikTok caption]
+
+Hashtags:
+  [5–8 German hashtags]
+```
+
+Rules:
+- **Always both:** one real, verifiable Fromm quote AND one new reflection inspired by his ideas, clearly labelled as reflection (never with his name as author).
+- Quote must be short enough to read comfortably on the image and must match the specific message of that script — never a random Fromm quote.
+- Only attribute to Fromm what can be confidently verified (name the work). If the German wording is a translation of the English original, say so and flag it for checking against the German edition. If no verifiable quote fits, the image uses the reflection, labelled as a reflection.
+- **Image design:** intellectual, philosophical, elegant, mature, serious; portrait format (3:4); strong readable German typography; uncluttered; clear contrast and empty space for the text; the scene relates to the script's topic; vary the look from post to post (light/warm vs. dark/black-and-white, different settings, poses and fonts) so no two images look identical. Fromm's face from the locked likeness photos.
+- **Caption:** German, conversational, expands the idea (does not just repeat the quote), invites reflection or comments, ends with a question.
+- **Hashtags:** 5–8 relevant German hashtags; vary them between posts; never stuffed into the caption.
+
+## 11. File Structure
+
+- `channels/erich-fromm/channel-foundation.md` (+ `channel-foundation.pdf`) — this document, the source of truth
+- `channels/erich-fromm/reference/` — Fromm likeness photos, thumbnail style references
+- `channels/erich-fromm/reference/social/` — social-media image style references
+- `channels/erich-fromm/scripts/NN-<slug>/` — per video: `script.txt`, `script.pdf`, `thumbnail.png`, `social-post.png`
+- `channels/carl-jung/source-scripts/` — original Jung scripts received for adaptation
+
+## 12. Delivery on Request
+
+When the user asks, deliver any document (this foundation, a script package, a list of all videos) as PDF.
+

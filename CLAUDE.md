@@ -5,9 +5,9 @@ Read this first in every session. It holds the locked decisions for the channels
 ## Channels
 
 - **Erich Fromm – Die Kunst zu Leben** (new, German). Full foundation in
-  `channels/erich-fromm/channel-foundation.md`. That document is the source of truth for
-  identity, audience, format, the three script templates, title/description/hashtag/playlist
-  rules and thumbnail rules.
+  `channels/erich-fromm/channel-foundation.md`. That document (and its PDF, `channel-foundation.pdf`)
+  is the source of truth for identity, audience, format, templates, production rules, the full
+  package, thumbnails and the SOCIAL-MEDIA-POST. Always use it as our source.
 - **Carl Jung** (sister channel, existing). Content and ideas are shared between the two channels.
   Its foundation document has not been added to this repo yet. Add it under `channels/carl-jung/`.
 
@@ -43,7 +43,10 @@ Read this first in every session. It holds the locked decisions for the channels
      kommentieren und den Kanal abonnieren.“
    - English: "If you would like to support the work of Master Erich Fromm, you can like,
      comment and subscribe to the channel."
-6. Do not invent quotes and attribute them to Fromm or Jung. Mark any quote that has not been
+6. **SOCIAL-MEDIA-POST after every script:** image post for Facebook/TikTok with a verified Fromm
+   quote AND a labelled reflection, exact image text, a Buzzy-generated portrait image (3:4), a
+   German caption and 5–8 German hashtags. Full rules: foundation Section 10.
+7. Do not invent quotes and attribute them to Fromm or Jung. Mark any quote that has not been
    checked against the primary text.
 
 ## Thumbnails
