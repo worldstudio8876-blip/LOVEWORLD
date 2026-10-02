@@ -24,7 +24,14 @@ Read this first in every session. It holds the locked decisions for the channels
    that script is German. German scripts always use Du-Form. Plan length at ~119–128 words per
    minute. Title, description, hashtags and thumbnail text follow the script's language.
 4. Deliver the full package: title, description (the title verbatim), hashtags, thumbnail concept,
-   playlist ("Die Philosophie von Erich Fromm"), the script, plus PDF and TXT files.
+   playlist ("Die Philosophie von Erich Fromm"), **TikTok post (caption + hashtags)**,
+   **Facebook post (description + hashtags)**, the script, plus PDF and TXT files.
+   - TikTok: short hook caption (1–3 lines, max ~300 characters), a comment CTA, 4–6 hashtags
+     (mix of broad + topic, always incl. #ErichFromm, plus #fyp/#foryou-style tags in the script's
+     language, e.g. #fürdich for German).
+   - Facebook: 4–8 line post (hook, 2–3 lines of the core idea, CTA to watch the full video on
+     YouTube and comment the phrase), then 5–8 hashtags ending with #ErichFromm.
+   - Same language as the script.
 5. **Donation lines (Superchat, Super Thanks, donations, etc.):** the moment a script contains the
    word "donation" (German: Spende, spenden) or any line asking viewers for money (Superchat,
    Super Thanks, PayPal, Patreon, etc.), flag it to the user IMMEDIATELY: at the very top of the
