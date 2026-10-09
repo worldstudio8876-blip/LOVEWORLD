@@ -220,3 +220,24 @@ English (for English uploads / video tags, 366 characters):
 ```
 "Erich Fromm" "The Art of Loving" "To Have or to Be" "Escape from Freedom" psychology "depth psychology" subconscious "self discovery" "personal growth" "inner healing" "emotional healing" "self worth" "inner strength" "life wisdom" "meaning of life" happiness gratitude "letting go" manifestation mindfulness philosophy "Carl Jung" psychoanalysis "sleep meditation"
 ```
+
+## 15. Hashtag Bank
+
+YouTube shows the first 3 hashtags above the video title; keep each video at **max. 15 hashtags** (YouTube may ignore hashtags on videos that use too many). Use: 3 core + 6–8 niche + 3–4 topic tags.
+
+**Core (every video, first 3):** #ErichFromm #Psychologie #Lebensweisheit
+
+**Niche pool (pick 6–8):** #Tiefenpsychologie #Unterbewusstsein #Selbstfindung #Persönlichkeitsentwicklung #InnereHeilung #EmotionaleHeilung #Selbstwert #InnereStärke #Philosophie #Psychoanalyse #Lebenskunst #Selbsterkenntnis #Lebenssinn #Achtsamkeit
+
+**Topic pools (pick 3–4 matching the video):**
+- Glück & Manifestation: #Glück #Manifestieren #Dankbarkeit #Synchronizität #Herzkohärenz #Fülle
+- Stille & Loslassen: #KraftDerStille #Loslassen #Gelassenheit #InnererFrieden #Nichtstun
+- Haben oder Sein: #HabenOderSein #Konsumgesellschaft #Minimalismus #WahreFülle
+- Freiheit: #FurchtVorDerFreiheit #Freiheit #Selbstbestimmung
+- Liebe: #DieKunstDesLiebens #Liebe #Selbstliebe
+- Älter werden: #WeisheitImAlter #ProduktivesAltern #Lebensfreude
+- Schlaf-Videos: #Einschlafmeditation #Schlafmeditation #Affirmationen #Entspannung
+
+**English equivalents:** #ErichFromm #Psychology #LifeWisdom · #DepthPsychology #Subconscious #SelfDiscovery #PersonalGrowth #InnerHealing #EmotionalHealing #SelfWorth #InnerStrength #Philosophy #Psychoanalysis · #Happiness #Manifestation #Gratitude #LettingGo #InnerPeace #ToHaveOrToBe #TheArtOfLoving #SleepMeditation
+
+**TikTok:** 4–6 tags, always #ErichFromm + #fürdich (EN: #fyp). **Facebook/image posts:** 5–8 tags, vary from post to post.
