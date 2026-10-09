@@ -206,3 +206,17 @@ When the user asks, deliver any document (this foundation, a script package, a l
 
 Open items: confirm German wording of both social-post quotes against the German editions; confirm upload date for the Video 02 thumbnail.
 
+
+## 14. Channel Keywords (YouTube Studio → Settings → Channel → Keywords)
+
+German (main, 430 characters — paste as is):
+
+```
+"Erich Fromm" "Die Kunst zu Leben" "Die Kunst des Liebens" "Haben oder Sein" "Die Furcht vor der Freiheit" Psychologie Tiefenpsychologie Unterbewusstsein Selbstfindung Persönlichkeitsentwicklung "Innere Heilung" "Emotionale Heilung" Selbstwert "Innere Stärke" Lebensweisheit Lebenssinn Glück Gelassenheit Loslassen Dankbarkeit Manifestieren Achtsamkeit Philosophie "Carl Jung" Psychoanalyse "Weisheit im Alter" Einschlafmeditation
+```
+
+English (for English uploads / video tags, 366 characters):
+
+```
+"Erich Fromm" "The Art of Loving" "To Have or to Be" "Escape from Freedom" psychology "depth psychology" subconscious "self discovery" "personal growth" "inner healing" "emotional healing" "self worth" "inner strength" "life wisdom" "meaning of life" happiness gratitude "letting go" manifestation mindfulness philosophy "Carl Jung" psychoanalysis "sleep meditation"
+```
